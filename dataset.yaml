@@ -1,6 +1,8 @@
-path:  
-train: 
-val: 
+path: ./.dataset/
+train: training
+val: validation
 
 names:
-    0: Test
+    0: Cattle
+    1: Dog
+    2: Humanoid
