@@ -1,4 +1,4 @@
-path: ./.dataset/
+path: /mnt/c/Users/Kentv/Desktop/TrainingUltralytics/.dataset/
 train: training
 val: validation
 
