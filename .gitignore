@@ -1,6 +1,2 @@
 *.out
 *.pt
-
-.dataset/*
-.ipynb_checkpoints/*
-runs/*
