@@ -1,5 +1,7 @@
 *.out
 *.pt
+*.pyc
 
+.old/*
 runs/*
 wandb/*
