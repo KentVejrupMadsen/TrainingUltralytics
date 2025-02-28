@@ -1,1 +1,1 @@
-# TrainingUltralytics
+# Training Ultralytics
